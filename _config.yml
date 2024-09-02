@@ -1,7 +1,7 @@
-theme: minimal-mistakes-jekyll
 title: Your Site Title
 description: A description of your site.
-url: "https://muthukrishnanpb.github.io"
+url: "https://username.github.io" # Update with your GitHub Pages URL
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.0" # Use the latest version tag or branch
+
