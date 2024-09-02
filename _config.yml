@@ -1,7 +1,7 @@
-title: Your Site Title
-description: A description of your site.
-url: "https://username.github.io" # Update with your GitHub Pages URL
+title: Muthu Krishnan P B
+description: About Me
+url: "https://muthukrishnanpb.github.io" # Update with your GitHub Pages URL
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.0" # Use the latest version tag or branch
+remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the latest version tag or branch
 
