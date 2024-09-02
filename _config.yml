@@ -2,6 +2,9 @@ title: Muthu Krishnan P B
 description: About Me
 url: "https://muthukrishnanpb.github.io" # Update with your GitHub Pages URL
 
+plugins:
+  - jekyll-include-cache
+
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the latest version tag or branch
 
