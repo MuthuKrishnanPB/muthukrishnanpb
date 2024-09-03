@@ -4,8 +4,7 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the latest version tag or branch
 minimal_mistakes_skin: "air"
 
-title: "Know About Me"
-name: "Michael Rose"
+title: "Hi !! This is Muthu !!"
 masthead_title: "Know About Me"
 read_time: true
 
@@ -31,14 +30,3 @@ defaults:
       layout: single
       author_profile: true
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
