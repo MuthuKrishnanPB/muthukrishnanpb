@@ -7,8 +7,8 @@ minimal_mistakes_skin: "air"
 
 author:
   name: "Muthu Krishnan P B"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Passionate Software Engineer | Expert in Building Robust and Efficient Applications"
+  avatar: "/assets/images/bio-data.jpg"
+  bio: "Passionate Software Engineer and an Expert in Building Robust and Efficient Applications"
   location: "Chennai, India"
   links:
     - label: "Leetcode"
@@ -17,3 +17,12 @@ author:
     - label: "Linked In"
       icon: "/assets/images/linkedin.png"
       url: "https://www.linkedin.com/in/muthu-krishnan-p-b-65a2b057/"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
