@@ -1,5 +1,6 @@
 ---
 layout: home
+author_profile: true
 ---
 
 # Welcome to My GitHub Page
