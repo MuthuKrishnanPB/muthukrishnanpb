@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-# Welcome to My GitHub Page
+## Welcome to My GitHub Page
 
 This is a sample GitHub Pages site using the Minimal Mistakes theme.
 
