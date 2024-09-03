@@ -1,35 +1,19 @@
-title: Muthu Krishnan P B
-name: My Portfolio
-description: About Me
-url: "https://muthukrishnanpb.github.io" # Update with your GitHub Pages URL
-teaser: /assets/images/500x300.png
-logo: "/assets/images/88x88.png"
-masthead_title: "Muthu Krishnan P B"
-
 plugins:
   - jekyll-include-cache
 
-# Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the latest version tag or branch
 
-# Minimal Mistakes skin configuration
 minimal_mistakes_skin: "air"
 
 author:
-  name: "Your Name"
+  name: "Muthu Krishnan P B"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+  bio: "Passionate Software Engineer | Expert in Building Robust and Efficient Applications"
+  location: "Chennai, India"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+    - label: "Leetcode"
+      icon: "/assets/images/lc.png"
+      url: "https://leetcode.com/u/muthukrishnanpb/"
+    - label: "Linked In"
+      icon: "/assets/images/linkedin.png"
+      url: "https://www.linkedin.com/in/muthu-krishnan-p-b-65a2b057/"
