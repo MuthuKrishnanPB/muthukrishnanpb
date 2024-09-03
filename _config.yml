@@ -4,8 +4,8 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the latest version tag or branch
 minimal_mistakes_skin: "air"
 
-title: "Hi !! This is Muthu !!"
-masthead_title: "Know About Me"
+title: "Profile - Muthu Krishnan P B"
+masthead_title: "Read My Story"
 
 author:
   name: "Muthu Krishnan P B"
@@ -13,15 +13,14 @@ author:
   bio: "Passionate Software Engineer and an Expert in Building Robust and Efficient Applications"
   location: "Chennai, India"
   links:
-    - label: "Leetcode"
-      icon: "/assets/images/lc.jpg"
-      url: "https://leetcode.com/u/muthukrishnanpb/"
     - label: "Linked In"
       icon: "/assets/images/linkedin.jpg"
       url: "https://www.linkedin.com/in/muthu-krishnan-p-b-65a2b057/"
+    - label: "Leetcode"
+      icon: "/assets/images/lc.jpg"
+      url: "https://leetcode.com/u/muthukrishnanpb/"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
