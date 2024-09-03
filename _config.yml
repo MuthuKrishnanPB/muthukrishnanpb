@@ -1,6 +1,10 @@
 title: Muthu Krishnan P B
+name: My Portfolio
 description: About Me
 url: "https://muthukrishnanpb.github.io" # Update with your GitHub Pages URL
+teaser: /assets/images/500x300.png
+logo: "/assets/images/88x88.png"
+masthead_title: "Muthu Krishnan P B"
 
 plugins:
   - jekyll-include-cache
