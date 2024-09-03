@@ -7,4 +7,9 @@ plugins:
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the latest version tag or branch
-minimal_mistakes_skin: "default"
+
+# Minimal Mistakes skin configuration
+minimal_mistakes_skin:
+  # Choose a skin from the available options or set to 'default'
+  # Available options: 'default', 'dark', 'high-contrast', 'light', etc.
+  skin: "air"
