@@ -5,9 +5,6 @@ Hello, I’m Muthu Krishnan, and I have been with Zoho for over 8 years. I am a 
 - *Italic Text*
 - [Link to GitHub](https://github.com)
 
-## Education
-I completed my secondary education at Sri Lions Higher Secondary School in Srivilliputtur, Tamil Nadu. I subsequently earned a Bachelor of Engineering degree from Thiagarajar College of Engineering, graduating with a CGPA of 9.2.
-
 ## Development
 I joined Zoho as a Developer, where I contributed to various projects and refined my skills over approximately three years. Notable projects during this period include:
 - Developed a Scheduler framework designed for a multi-cluster setup, which now scales to support over X customers.
