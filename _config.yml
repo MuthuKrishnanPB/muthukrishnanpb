@@ -14,10 +14,10 @@ author:
   location: "Chennai, India"
   links:
     - label: "Linked In"
-      icon: "/assets/images/linkedin.jpg"
+      icon: "/assets/images/linkedin.svg"
       url: "https://www.linkedin.com/in/muthu-krishnan-p-b-65a2b057/"
     - label: "Leetcode"
-      icon: "/assets/images/lc.jpg"
+      icon: "/assets/images/lc.svg"
       url: "https://leetcode.com/u/muthukrishnanpb/"
 
 defaults:
