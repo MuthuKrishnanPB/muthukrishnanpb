@@ -1,5 +1,7 @@
 
-Hello, I’m Muthu Krishnan, and I have been with Zoho for over 8 years. I am a dedicated developer, experienced project manager, and versatile programmer. I am currently exploring external opportunities to further advance my technical skills. I’d be pleased to provide a brief overview of my professional background. For a more detailed summary of my experience and expertise, please visit my LinkedIn profile.
+Hello, I’m Muthu Krishnan, and I have been with Zoho for over 8 years. I am a dedicated developer, experienced project manager, and versatile programmer. 
+
+I am currently exploring external opportunities to further advance my technical skills. I’d be pleased to provide a brief overview of my professional background. For a more hasty summary of my experience and expertise, please check out my [LinkedIn profile](https://www.linkedin.com/in/muthu-krishnan-p-b-65a2b057/).
 
 - **Bold Text**
 - *Italic Text*
