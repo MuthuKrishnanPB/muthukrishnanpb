@@ -14,7 +14,7 @@ author:
   location: "Chennai, India"
   links:
     - label: "Linked In"
-      icon: "/assets/images/linkedin.svg"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/muthu-krishnan-p-b-65a2b057/"
     - label: "Leetcode"
       icon: "/assets/images/lc.svg"
